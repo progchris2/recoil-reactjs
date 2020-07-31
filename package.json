@@ -7,7 +7,8 @@
   "author": "Gilles Chris <progchris>",
   "license": "MIT",
   "scripts": {
-    "start": "parcel ./public/index.html"
+    "start": "parcel ./public/index.html",
+    "jest": "jest --watch"
   },
   "dependencies": {
     "bootstrap": "^4.5.0",
@@ -20,7 +21,9 @@
     "@babel/core": "^7.10.5",
     "@babel/preset-env": "^7.10.4",
     "@babel/preset-react": "^7.10.4",
+    "jest": "^26.2.1",
     "parcel": "^1.12.4",
-    "sass": "^1.26.10"
+    "sass": "^1.26.10",
+    "testing-library": "^0.0.2"
   }
 }
