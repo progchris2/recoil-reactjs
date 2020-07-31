@@ -1,7 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81acd18a-fbde-4b48-82c3-3accdbb9a49a" name="Default Changelist" comment="" />
+    <list default="true" id="81acd18a-fbde-4b48-82c3-3accdbb9a49a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.cache/01/468573ec47b3fdd684514050260867.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/25/16e2119477f027acc112b1de2c7286.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/2a/2295f3b793b9bbe915217ba16f5e8e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/2c/718b79b143548883df15c6fe80a4d1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/40/4198556e868338013b97281744ab9b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/4b/a863e8d651545e9008debc429a3c2a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/4f/fc518d858d48f2c67ede1bf0737ecd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/51/12edf5e2e362a628b8202173afc406.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/55/8c0f69912144a581d31091962bb30e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/59/bb9a788ad15b5dc3037b72eeb47b6a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/5d/8c4f19e6ee6c9a39ad44d8b2e819db.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/5e/d1b1e287320e55e6ce48869168e1bb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/6a/d0171f3d518d3ae79e76091039a9e9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/74/46af5c2dd1c92e33ee1b0ea7f4ade4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/76/ba49d7372365f559bc461c639e8f81.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/78/e8f6be0325634d2c590c215118942a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/83/35f8ea990ba24ebfb033a6f72449d0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/85/192968edc2e0464345320a4531e22a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/8f/cf78f3d6fb45c10a9b53ee1a8e2bbf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/91/6b653dccae33f85cf6b72dfffab21f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/96/2fcc33a7530024d81bb8ac1b05fbb1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/a0/6d7091e2b8c2c015c88a63f49af478.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/a1/80cc9bf105f3b16166f3481b8ef32a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/a2/83404ed3f61b9deab6b8e7f661d9f0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/b8/f9ae1147f2a848da1cd86671bb6dd3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/c5/dbd1a3198650effbea3131ca7a2bdf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/ca/8122552d937e1caffdefcba8de0032.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/ce/765bd8d0cde5d4b1329cc87c89c55d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/d6/367dcb690ff92623ca9e3ba66cc9e0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/dc/c439731e4e7412ce93d6e49b875cdd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/e5/386eaa33d4bed2ec754a9200be48ce.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/eb/023e6142168ae456337119b021b53d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/fd/3f20e33563a4a7f0fedf9c0a5796ca.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/app.d03704f2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/app.d03704f2.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/app.d03704f2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/app.d03704f2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/src.b0ce6175.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/src.b0ce6175.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/src.b0ce6175.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/src.b0ce6175.js.map" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +66,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fPGSJUmKutcnBUBDud9C79wDP7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -61,6 +108,7 @@
       <updated>1596112313258</updated>
       <workItem from="1596112314547" duration="237000" />
       <workItem from="1596113234572" duration="19736000" />
+      <workItem from="1596185125536" duration="315000" />
     </task>
     <servers />
   </component>
@@ -80,6 +128,22 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="491" y="320" key="EditFileWatcherDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1596121306345" />
+    <state width="1541" height="269" key="GridCell.Tab.0.bottom" timestamp="1596185167765">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1541" height="269" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1596185167765" />
+    <state width="1541" height="269" key="GridCell.Tab.0.center" timestamp="1596185167764">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1541" height="269" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1596185167764" />
+    <state width="1541" height="269" key="GridCell.Tab.0.left" timestamp="1596185167762">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1541" height="269" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1596185167762" />
+    <state width="1541" height="269" key="GridCell.Tab.0.right" timestamp="1596185167765">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1541" height="269" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1596185167765" />
     <state x="341" y="164" key="SettingsEditor" timestamp="1596118979945">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
