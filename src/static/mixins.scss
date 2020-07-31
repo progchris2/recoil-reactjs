@@ -1,0 +1,10 @@
+@mixin displayBloc($direction:"") {
+  display: flex;
+  align-items: center;
+  @if ($direction == "start") {
+    justify-content: flex-start;
+  }
+  @else {
+    justify-content: space-around;
+  }
+}

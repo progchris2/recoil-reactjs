@@ -1,0 +1,76 @@
+{
+  "env": {
+	"browser": true,
+	"commonjs": true,
+	"es6": true,
+	"node": true,
+	"jest/globals": true
+  },
+  "extends": [
+	"eslint:recommended",
+	"plugin:react/recommended",
+	"plugin:jest/recommended"
+  ],
+  "parser": "babel-eslint",
+  "parserOptions": {
+	"ecmaFeatures": {
+	  "jsx": true
+	},
+	"ecmaVersion": 2019,
+	"sourceType": "module"
+  },
+  "plugins": [
+	"eslint-plugin-react",
+	"eslint-plugin-jest",
+	"jest",
+	"flowtype",
+	"react-hooks"
+  ],
+  "rules": {
+	"indent": [
+	  "error",
+	  "tab",
+	  {
+		"ObjectExpression": 1,
+		"ArrayExpression": 1,
+		"ImportDeclaration": 1,
+		"MemberExpression": 1,
+		"SwitchCase": 1,
+		"flatTernaryExpressions": true,
+		"CallExpression": {"arguments": "first"},
+		"FunctionExpression": {"parameters": "first"},
+		"VariableDeclarator": {"var": 2, "let": 2, "const": 3}
+	  }
+	],
+	"jsx-quotes": ["error","prefer-double"],
+	"key-spacing": [
+	  "error",
+	  {
+		"singleLine": {"beforeColon": false, "afterColon": true},
+		"multiLine": {"beforeColon": false,"afterColon": true},
+		"align": {
+		  "beforeColon": false,
+		  "afterColon": true,
+		  "on": "colon",
+		  "mode": "strict"
+		}
+	  }
+	],
+	"array-bracket-newline": ["error", "never"],
+	"func-style": [
+	  "error",
+	  "expression",
+	  { "allowArrowFunctions": true }
+	],
+	"linebreak-style": ["error", "unix"],
+	"quotes": ["error", "double"],
+	"semi": [ "error", "always"],
+	"jest/no-disabled-tests": "warn",
+	"jest/no-focused-tests": "error",
+	"jest/no-identical-title": "error",
+	"jest/prefer-to-have-length": "warn",
+	"jest/valid-expect": "error",
+	"react-hooks/rules-of-hooks": "error",
+	"react-hooks/exhaustive-deps": "warn"
+  }
+}
